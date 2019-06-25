@@ -39,6 +39,8 @@ gem 'jquery-rails'
 
 gem 'simple_form'
 
+gem 'devise'
+
 
 gem 'bootsnap', '>= 1.1.0', require: false
 
