@@ -41,6 +41,11 @@ gem 'simple_form'
 
 gem 'devise'
 
+gem "figaro"
+
+gem "fog-aws"
+
+gem 'carrierwave', '>= 2.0.0.rc', '< 3.0'
 
 gem 'bootsnap', '>= 1.1.0', require: false
 
